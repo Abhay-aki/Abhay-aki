@@ -10,7 +10,7 @@ Stack
 
 C++ Python 
 
-
+Currently exploring
 leaning toward backend engineering with a small AI-integration edge, not pure AI/ML.
 
 Find me
