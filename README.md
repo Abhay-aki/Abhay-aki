@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey, I'm Abhay 👋
 
-<!--
-**Abhay-aki/Abhay-aki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student (AI & Data Science), currently building toward systems programming — backend + distributed systems, C++ as primary language, DSA as a parallel track.
 
-Here are some ideas to get you started:
+What I'm doing right now
+📘 Learning C++ 
+🧩 Grinding DSA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack
+
+C++ Python 
+
+Currently exploring
+
+leaning toward backend engineering with a small AI-integration edge, not pure AI/ML.
+
+Find me
+https://www.linkedin.com/in/abhay-kathait
